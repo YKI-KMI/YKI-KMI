@@ -3,9 +3,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=YKI-KMI&center=true&size=50&color=E6F3FF&width=500&height=80&pause=1000">
-</p>
 
 # Hi, I'm Yash Verma 👋
 
