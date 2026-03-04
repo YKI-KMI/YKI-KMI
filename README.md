@@ -9,9 +9,9 @@ Interests: ML Engineering, Neural Network Design, AI Automation
 
 ## GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YKI-KMI&show_icons=true&theme=tokyonight)
+![Yash's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YKI-KMI&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKI-KMI&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YKI-KMI&layout=compact&theme=tokyonight)
 
 ## Tech Stack
 
