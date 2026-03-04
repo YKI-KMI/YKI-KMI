@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=YKI-KMI&desc=Yuki-Kami%20%7C%20Snow%20Spirit&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&fontColor=ffffff)
 
 # Hi, I'm Yash Verma 👋
 
