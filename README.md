@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:191414,100:000000&height=200&section=header&text=Yash%20Verma&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:191414,100:000000&height=200&section=header&text=Yash%20Verma&fontSize=40&fontColor=ffffff)
 
 # Hi, I'm Yash Verma 👋
 
