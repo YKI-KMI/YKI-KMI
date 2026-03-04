@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:191414,100:000000&height=230&section=header&text=YKI-KMI&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=YKI-KMI&center=true&size=50&color=E6F3FF&width=500&height=80&pause=1000">
+</p>
 
 # Hi, I'm Yash Verma 👋
 
