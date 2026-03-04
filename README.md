@@ -2,16 +2,16 @@
 
 # Hi, I'm Yash Verma 👋
 
-🎓 Student interested in Machine Learning, AI Systems, and Spatial Analysis  
-💻 Languages: Python, C++  
-⚙️ Interests: ML Engineering, Neural Network Design, AI Automation
+Student interested in Machine Learning, AI Systems, and Spatial Analysis  
+Languages: Python, C++  
+Interests: ML Engineering, Neural Network Design, AI Automation
 
 
 ## GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YKIKMI&show_icons=true&theme=tokyonight)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YKI-KMI&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKIKMI&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKI-KMI&layout=compact&theme=tokyonight)
 
 ## Tech Stack
 
@@ -34,6 +34,11 @@ a CPP pipeline for low-latency trading
 
 ## Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YKIKMI&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YKI-KMI&theme=tokyo-night)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YKIKMI.YKIKMI)
+<div align="center">
+  
+## HI VISITORS
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YKI-KMI.YKI-KMI)
+
+</div>
