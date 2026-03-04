@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:191414,100:000000&height=230&section=header&text=YKI-KMI&fontSize=50&fontColor=ffffff)
 
 # Hi, I'm Yash Verma 👋
 
