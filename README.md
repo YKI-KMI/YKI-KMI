@@ -3,38 +3,49 @@
 </p>
 
 
+<div align="center">
+# yash verma's profile
+</div>
 
-# Hi, I'm Yash Verma 👋
-
-Student interested in Machine Learning, AI Systems, and Spatial Analysis  
-Languages: Python, C++  
-Interests: ML Engineering, Neural Network Design, AI Automation
-
-
-## GitHub Stats
-
-![Yash's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YKI-KMI&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YKI-KMI&layout=compact&theme=tokyonight)
+<p align="center">
+Aspiring Quant & AI Engineer focused on building data-driven and performant systems <br>
+Languages: Python, C++ <br>
+Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysis
+</p>
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Python](https://img.shields.io/badge/Python-1f2937?logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-1f2937?logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-1f2937?logo=mysql&logoColor=4479A1)
+![Java](https://img.shields.io/badge/Java-1f2937?logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-1f2937?logo=c&logoColor=A8B9CC)
+![R](https://img.shields.io/badge/R-1f2937?logo=r&logoColor=276DC3)
+![Julia](https://img.shields.io/badge/Julia-1f2937?logo=julia&logoColor=9558B2)
+![MATLAB](https://img.shields.io/badge/MATLAB-1f2937?logo=mathworks&logoColor=FF6F00)
+![Rust](https://img.shields.io/badge/Rust-1f2937?logo=rust&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-1f2937?logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-1f2937?logo=pandas&logoColor=150458)
+![SciPy](https://img.shields.io/badge/SciPy-1f2937?logo=scipy&logoColor=8CAAE6)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1f2937?logo=scikitlearn&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2937?logo=tensorflow&logoColor=FF6F00)
+![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?logo=jupyter&logoColor=F37626)
+
+![Linux](https://img.shields.io/badge/Linux-1f2937?logo=linux&logoColor=FCC624)
+
 
 ## Featured Projects
 
-### AI File Organizer
+### Dreadnought
+a CPP pipeline for low-latency trading
+
+### NEXUS
 AI system that detects patterns in filenames and automatically organizes folders.
 
 ### Pose-Detection
 OpenCV systems to detect poses.
 
-### Dreadnought
-a CPP pipeline for low-latency trading
 
 ## Activity
 
