@@ -4,14 +4,13 @@
 
 
 <div align="center">
-# yash verma's profile
-</div>
-
+<h1> yash verma's profile </h1>
 <p align="center">
 Aspiring Quant & AI Engineer focused on building data-driven and performant systems <br>
 Languages: Python, C++ <br>
 Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysis
 </p>
+</div>
 
 ## Tech Stack
 
@@ -31,7 +30,6 @@ Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysi
 ![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2937?logo=tensorflow&logoColor=FF6F00)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?logo=jupyter&logoColor=F37626)
-
 ![Linux](https://img.shields.io/badge/Linux-1f2937?logo=linux&logoColor=FCC624)
 
 
