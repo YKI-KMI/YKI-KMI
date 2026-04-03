@@ -32,26 +32,11 @@ Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysi
 ![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?logo=jupyter&logoColor=F37626)
 ![Linux](https://img.shields.io/badge/Linux-1f2937?logo=linux&logoColor=FCC624)
 
-
-## Featured Projects
-
-### Dreadnought
-a CPP pipeline for low-latency trading
-
-### NEXUS
-AI system that detects patterns in filenames and automatically organizes folders.
-
-### Pose-Detection
-OpenCV systems to detect poses.
-
-
-## Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YKI-KMI&theme=tokyo-night)
-
 <div align="center">
   
 ## HI VISITORS
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YKI-KMI.YKI-KMI)
 
 </div>
+
+
