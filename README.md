@@ -33,6 +33,8 @@ Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysi
 ![Linux](https://img.shields.io/badge/Linux-1f2937?logo=linux&logoColor=FCC624)
 
 
+
+
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YKI-KMI/YKI-KMI/output/pacman-contribution-graph-dark.svg">
