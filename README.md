@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=YKIKMI&fontSize=55&fontColor=E6F3FF&animation=fadeIn"/>
-</p>
-
-
 <div align="center">
 <h1> yash verma's profile </h1>
 <p align="center">
