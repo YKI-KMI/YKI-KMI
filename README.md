@@ -7,7 +7,7 @@ Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysi
 </p>
 </div>
 
-## Tech Stack
+---
 
 ![Python](https://img.shields.io/badge/Python-1f2937?logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-1f2937?logo=cplusplus&logoColor=00599C)
