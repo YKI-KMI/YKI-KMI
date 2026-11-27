@@ -28,7 +28,7 @@ Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysi
 ![Linux](https://img.shields.io/badge/Linux-1f2937?logo=linux&logoColor=FCC624)
 
 
-
+---
 
 <div>
 <picture>
