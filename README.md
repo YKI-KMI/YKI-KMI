@@ -8,10 +8,10 @@ Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysi
 </div>
 
 ---
-
 ![Python](https://img.shields.io/badge/Python-1f2937?logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-1f2937?logo=cplusplus&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-1f2937?logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-1f2937?logo=sqlite&logoColor=0F80CC)
 ![Java](https://img.shields.io/badge/Java-1f2937?logo=openjdk&logoColor=ED8B00)
 ![C](https://img.shields.io/badge/C-1f2937?logo=c&logoColor=A8B9CC)
 ![R](https://img.shields.io/badge/R-1f2937?logo=r&logoColor=276DC3)
@@ -24,9 +24,13 @@ Interests: ML Engineering, Neural Network Design, AI Automation, Spatial Analysi
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1f2937?logo=scikitlearn&logoColor=F7931E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1f2937?logo=tensorflow&logoColor=FF6F00)
+![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?logo=fastapi&logoColor=009688)
+![Claude](https://img.shields.io/badge/Claude-1f2937?logo=claude&logoColor=D97757)
+![MCP](https://img.shields.io/badge/MCP-1f2937?logo=modelcontextprotocol&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?logo=jupyter&logoColor=F37626)
+![Git](https://img.shields.io/badge/Git-1f2937?logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1f2937?logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-1f2937?logo=linux&logoColor=FCC624)
-
 
 ---
 
